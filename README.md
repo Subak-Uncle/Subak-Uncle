@@ -1,6 +1,7 @@
+<div align="center">
+  
 ### Hi there 👋, My Name is Wanny
 
-##### 🦝Wanny(Subak-Uncle)/README.md
 ## 🧑‍💻Introduce
 
 ## 🐾Skills
@@ -39,4 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</center>
+</div>
