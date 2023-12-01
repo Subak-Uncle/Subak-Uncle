@@ -21,9 +21,9 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>   <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>   
 
 ## Projects
-|프로젝트 명|프로젝트 소개|기간|홈페이지|
-|---|---|---|---|
-|[MBTI 자판기](https://github.com/MTVS-Server/finalProject)|
+|프로젝트 명|프로젝트 소개|스택|기간|홈페이지|
+|:---:|:---:|:---:|:---:|:---:|
+|[MBTI 자판기](https://github.com/MTVS-Server/finalProject)|12가지의 2지 선다형 질문으로 사용자의 MBTI를 도출해주는 서비스| |2023.06.09 ~ 2023.06.12| - |
 
 ## 🐤my GitHub
 <!-- ![Subak-Uncle's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Subak-Uncle&show_icons=true&theme=gruvbox) -->
