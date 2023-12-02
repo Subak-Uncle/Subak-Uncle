@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>   <img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>   
 
 ## Projects
-|프로젝트 명|프로젝트 소개|스택|기간|홈페이지|
+|프로젝트 명|프로젝트 소개|사용기술|기간|홈페이지|
 |:---:|:---:|:---:|:---:|:---:|
 |[MBTI <br> 자판기](https://github.com/MTVS-Server/finalProject)|12가지의 2지 선다형 질문으로 사용자의 MBTI를 도출해주는 서비스|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp;![jsp](https://img.shields.io/badge/JSP-ED7D31?style=flat) <br> ![Servlet](https://img.shields.io/badge/Servlet-F8BDEB?style=flat)&nbsp;|2023.06.09 ~ 2023.06.12| - |
 |[랜덤 버거<br>만들기](https://github.com/mtvs-server-second-study/random-burger)|4단계를 거쳐 복불복 재료를 선택하여<br>만드는 랜덤 버거 텍스트 게임|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp;|2023.06.16 ~ 2023.06.20| - |
