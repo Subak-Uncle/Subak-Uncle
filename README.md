@@ -22,7 +22,7 @@
 |DataBase|![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)|
 |Cloud|![AWS ec2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)&nbsp; ![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)&nbsp; ![AWS RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)|
 |Collaboration|![Notion](https://img.shields.io/badge/notion-000000?style=flat&logo=Notion&logoColor=white)&nbsp; ![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)|
-|Back-End Skills|![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=flat)&nbsp; ![DATA JPA](https://img.shields.io/badge/DATA_JPA-AA344D?style=flat)|
+|Back-End Skills|![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?style=flat)&nbsp; ![DATA JPA](https://img.shields.io/badge/DATA_JPA-AA344D?style=flat)&nbsp; ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)&nbsp; ![JPQL](https://img.shields.io/badge/JPQL-46C3D0?style=flat)&nbsp; ![WenClient](https://img.shields.io/badge/WebClient-FECC00?style=flat)&nbsp; ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp; ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=flat&logo=junit5&logoColor=white)|
 
 </div>
 
