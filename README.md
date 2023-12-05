@@ -1,6 +1,6 @@
 
 
-## 🐤my GitHub
+## 🧑‍💻 About Me
 <div align="center">
 <!-- ![Subak-Uncle's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Subak-Uncle&show_icons=true&theme=gruvbox) -->
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Subak-Uncle&layout=compact&theme=graywhite) -->
@@ -9,9 +9,9 @@
 
 </div>
 
-## 🧑‍💻Introduce
+<br>
 
-## 🐾Skills
+## 🐾 Skills
 
 <div align="center">
   
@@ -26,18 +26,20 @@
 
 </div>
 
-## Projects
+<br>
+
+## 🎬 Projects
 |프로젝트 명|프로젝트 소개|사용기술|기간|홈페이지|
 |:---:|:---:|:---:|:---:|:---:|
 |[MBTI <br> 자판기](https://github.com/MTVS-Server/finalProject)|12가지의 2지 선다형 질문으로 사용자의 MBTI를 도출해주는 서비스|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp;![jsp](https://img.shields.io/badge/JSP-ED7D31?style=flat) <br> ![Servlet](https://img.shields.io/badge/Servlet-F8BDEB?style=flat)&nbsp;|2023.06.09 ~ 2023.06.12| - |
 |[랜덤 버거<br>만들기](https://github.com/mtvs-server-second-study/random-burger)|4단계를 거쳐 복불복 재료를 선택하여<br>만드는 랜덤 버거 텍스트 게임|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp;|2023.06.16 ~ 2023.06.20| - |
 |[DEVELNOM](https://github.com/mtvs-server-second-study/developer-agency)|개발자 소개 사이트|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp;<br>![springboot](https://img.shields.io/badge/SpringBoot-2.7.12-3CB371?style=flat)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-8.0.33-0766AD?style=flat) |2023.06.21 ~ 2023.06.29| - |
-|[닮은 연예인 찾기]||
-|[어드레감디?]|제주도 여행 플래너 사이트||http://adregamdi.site|
-|[러닝하이]|
-|[입국 시뮬레이션]|
-|[커플 AI 사진 생성]|
-|[도로 위 성동구]|
+|[닮은 연예인 찾기]|네이버 Clova Face Recognition, TMDB API를 활용한 닮은 연예인 사진 찾기 사이트||2023.07.07 ~ 2023.07.09| - |
+|[어드레감디?]|제주도 여행 플래너 사이트||2023.07.10 ~ 2023.07.31|http://adregamdi.site|
+|[러닝하이]|전국 러닝 코스 추천 사이트||2023.08.01 ~ 진행중|https://running-hi.com|
+|[입국 시뮬레이션]|[미드나잇캠프] - 미국 입국 시뮬레이션을 통한 영어 교육 게임||2023.08.29 ~ 2023.08.31| - |
+|[커플 AI 사진 생성]|생성형 AI를 활용한 커플 이미지 생성 사이트||2023.09.01 ~ 진행중|https://loveloveshot.com|
+|[도로 위 성동구]| [피우다 프로젝트 - 성동구 공공서비스 해결 SW] 시설물 관리, 간편 QR 코드 케어 서비스 ||2023.10.01 ~ 진행중| - |
 
 
 
