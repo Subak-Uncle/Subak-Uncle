@@ -42,6 +42,7 @@
 |[랜덤 버거<br>만들기](https://github.com/mtvs-server-second-study/random-burger)|4단계를 거쳐 복불복 재료를 선택하여<br>만드는 랜덤 버거 텍스트 게임|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp;|2023.06.16 ~ 2023.06.20| - |
 |[DEVELNOM](https://github.com/mtvs-server-second-study/developer-agency)|개발자 소개 사이트|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp; ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7.12-3CB371?style=flat)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-8.0.33-4479A1?style=flat&logo=mysql&logoColor=white) |2023.06.21 ~ 2023.06.29| - |
 |[닮은 연예인 찾기]|네이버 Clova Face Recognition, TMDB API를 활용한 닮은 연예인 사진 찾기 사이트||2023.07.07 ~ 2023.07.09| - | 
+
 -->
 
 
