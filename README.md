@@ -1,5 +1,3 @@
-
-
 ##  😝About Me
 <div align="center">
 <!-- ![Subak-Uncle's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Subak-Uncle&show_icons=true&theme=gruvbox) -->
@@ -28,7 +26,9 @@
 <br />
 
 ## 🖥️ Coding
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <!--
