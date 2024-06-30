@@ -25,7 +25,8 @@
 
 </div>
 
-<br>
+<br />
+
 ## 🖥️ Coding
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
