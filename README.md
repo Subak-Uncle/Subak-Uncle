@@ -26,7 +26,11 @@
 </div>
 
 <br>
+## 🖥️ Coding
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<!--
 ## 🎬 Projects
 |프로젝트 명|프로젝트 소개|사용기술|기간|홈페이지|
 |:---:|:---:|:---:|:---:|:---:|
@@ -36,6 +40,7 @@
 |[입국 시뮬레이션](https://github.com/Subak-Uncle/english-education)|[미드나잇캠프] - 미국 입국 시뮬레이션을 통한 영어 교육 게임|![nodeJs](https://img.shields.io/badge/NodeJs-18.17.12-339933?style=flat&logo=nodedotjs&logoColor=white)&nbsp; ![nodemon](https://img.shields.io/badge/Nodemon-3.0.1-76D04B?style=flat&logo=nodemon&logoColor=white)&nbsp; ![dotenv](https://img.shields.io/badge/.env-16.3.1-ECD53F?style=flat&logo=dotenv&logoColor=white)&nbsp; ![axios](https://img.shields.io/badge/Axios-1.5.0-5A29E4?style=flat&logo=axios&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-8.0.28-4479A1?style=flat&logo=mysql&logoColor=white)|2023.08.29 ~ 2023.08.31| https://youtu.be/iqg74JcQpQM |
 | [커플 AI 사진 생성](https://github.com/hot-gamza) | 생성형 AI를 활용한 커플 이미지 생성 사이트 | ![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp; ![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7.15-3CB371?style=flat)&nbsp; ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-5.7.10-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp; ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)&nbsp; ![DATA JPA](https://img.shields.io/badge/JPA-3.0.5-AA344D?style=flat)&nbsp; ![WenClient](https://img.shields.io/badge/WebClient-FECC00?style=flat)&nbsp; ![Junit5](https://img.shields.io/badge/Junit5-5.9.1-25A162?style=flat&logo=junit5&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-8.0.28-4479A1?style=flat&logo=mysql&logoColor=white) |2023.09.01 ~ 2023.09.27|https://loveloveshot.com(중지)|
 |[도로 위 성동구](https://github.com/fixplzz)| [피우다 프로젝트 - 성동구 공공서비스 해결 SW] 시설물 관리, 간편 QR 코드 케어 서비스 | ![java](https://img.shields.io/badge/Java-17-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-6.0.8-3CB371?style=flat)&nbsp; ![SpringBoot](https://img.shields.io/badge/SpringBoot-3.0.6-3CB371?style=flat)&nbsp; ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6.0.3-6DB33F?style=flat&logo=springsecurity&logoColor=white)&nbsp; ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)&nbsp; ![DATA JPA](https://img.shields.io/badge/JPA-2.7.15-AA344D?style=flat)&nbsp; ![MyBatis](https://img.shields.io/badge/MyBatis-3.0.2-000000?style=flat)&nbsp;  ![Junit5](https://img.shields.io/badge/Junit5-5.9.1-25A162?style=flat&logo=junit5&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/MySQL-8.0.28-4479A1?style=flat&logo=mysql&logoColor=white)&nbsp; | 2023.10.01 ~ 2023.11.30 | - |
+-->
 
 <!-- 
 |[랜덤 버거<br>만들기](https://github.com/mtvs-server-second-study/random-burger)|4단계를 거쳐 복불복 재료를 선택하여<br>만드는 랜덤 버거 텍스트 게임|![java](https://img.shields.io/badge/Java-11-3876BF?style=flat)&nbsp; ![spring](https://img.shields.io/badge/Spring-5.2.9-3CB371?style=flat)&nbsp;|2023.06.16 ~ 2023.06.20| - |
