@@ -14,6 +14,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_TOKEN }}
           GH_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "Subak-Uncle"
+          COMMIT_EMAIL: "kko6369@naver.com"
           LOCALE: "ko"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "False"
